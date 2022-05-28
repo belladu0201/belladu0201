@@ -18,8 +18,8 @@
 - 💬 Ask me about: Anything related to UCSD; Statistics and Cognitive Science related problems
 - 📫 How to reach me: bd169@duke.edu
 - 😄 Pronouns: She/Her/Hers
-- 📙 Booklist: 《巴菲特给儿女一生的忠告》, a chinese version of the suggestions given by Warren Edward Buffett
-- ⚡ Fun fact: I have a one year old Ragdoll named Mochi.
+- 📙 Booklist: 《巴菲特给儿女一生的忠告》,a chinese version of the suggestions given by Warren Edward Buffett
+- ⚡ Fun fact: I have a one year old Ragdoll named Mochi. He is a naughty boy that knocked his water bowl down everyday😾.
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belladu0201&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
