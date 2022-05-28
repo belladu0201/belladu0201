@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on data science projects.
 - 🤔 I’m looking for help with some theories in data science related to mathmatics/computer science.
 - 💬 Ask me about: Anything related to UCSD
-- 📫 How to reach me: belladu0201@gmail.com
+- 📫 How to reach me: bd169@duke.edu
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I have a one year old Ragdoll named Mochi.
 
