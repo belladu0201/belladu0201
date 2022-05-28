@@ -10,7 +10,7 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I have a one year old Ragdoll named Mochi.
 <div id="header" align="center">
-  <img src="https://c.tenor.com/b15GcCL4pmoAAAAC/detective-pikachu-pok%C3%A9mon.gif" width="100"/>
+  <img src="https://c.tenor.com/b15GcCL4pmoAAAAC/detective-pikachu-pok%C3%A9mon.gif" width="400"/>
 </div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belladu0201&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
