@@ -8,8 +8,8 @@
 <div id="header" align="center">
   <img src="https://c.tenor.com/b15GcCL4pmoAAAAC/detective-pikachu-pok%C3%A9mon.gif" width="400"/>
 </div>
+
 ---
-## About me:
 - 🔭 I’m currently working on preparing for internships(DS/DA/BA/DI) and be ready for the master program (MIDS @ Duke).
 - 🌱 I’m currently learning `Python and Pandas for Data Engineering` on Cousera and self-learning SQL.
 - 👯 I’m looking to collaborate on data science projects.
