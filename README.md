@@ -10,3 +10,5 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I have a one year old Ragdoll named Mochi.
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
