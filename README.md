@@ -26,3 +26,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belladu0201&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belladu0201&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/hello-hi-henlo-FAFo1M7EC4gRZ4HETH" width="200"/>
+</div>
+
