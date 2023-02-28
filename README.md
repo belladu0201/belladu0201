@@ -9,9 +9,7 @@
   <img src="https://c.tenor.com/b15GcCL4pmoAAAAC/detective-pikachu-pok%C3%A9mon.gif" width="400"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media.tenor.com/LmoTSIbR8wEAAAAC/buff-pikachu.gif" width="200"/>
-</div>
+
 
 
 
