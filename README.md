@@ -18,10 +18,10 @@
 - 🌱 I’m currently learning `Scripting with Python and SQL for Data Engineering` on Cousera and self-learning SQL in Bilibili.
 - 👯 I’m looking to collaborate on data science projects. I would like to see more interesting ideas.
 - 🤔 I’m looking for help with some theories in data science related to mathmatics/computer science/machine learning.
-- 💬 Ask me about: Anything related to UCSD; Statistics and Cognitive Science related topics
+- 💬 Ask me about: Anything related to UCSD; Statistics and Cognitive Science related topics; job searching
 - 📫 How to reach me: beibei.du@duke.edu
 - 😄 Pronouns: She/Her/Hers
-- 📙 Booklist: 《巴菲特给儿女一生的忠告》(a chinese version of the suggestions given by Warren Edward Buffett); 《吸引力法则》(I think this is a bad book)
+- 📙 Booklist: N/A for now :)
 - 🎶 Recent Music list: https://www.youtube.com/watch?v=7-mTR7JSrFI
 - ⚡ Fun fact: I have a Ragdoll named Mochi. He is a naughty boy that knocked his water bowl down everyday😾.
 
