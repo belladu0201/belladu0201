@@ -24,6 +24,7 @@
 - 📙 Booklist: N/A for now :)
 - 🎶 Recent Music list: https://www.youtube.com/watch?v=7-mTR7JSrFI
 - ⚡ Fun fact: I have a Ragdoll named Mochi. He is a naughty boy that knocked his water bowl down everyday😾.
+- Check out my personal website (in progress): https://belladu0201.github.io/
 
 
 
