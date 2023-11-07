@@ -21,9 +21,10 @@
 - 💬 Ask me about: Anything related to UCSD; Statistics and Cognitive Science related topics; job searching
 - 📫 How to reach me: beibei.du@duke.edu
 - 😄 Pronouns: She/Her/Hers
-- 📙 Booklist: N/A for now :) (Open to emotion control recommendations)
+- 📙 Booklist: Exhalation: Stories; The Economic Naturalist; 秋园
 - 🎶 Recent Music list: https://www.youtube.com/watch?v=7-mTR7JSrFI
-- ⚡ Fun fact: I have a Ragdoll named Mochi. He is a naughty boy that knocked his water bowl down every day 😾.
+- 🎬 Recommended drama list: liar Game (Seasons I & II)
+- ⚡ Fun fact: I have a Ragdoll named Mochi. He is a naughty boy who knocks his water bowl down every day 😾.
 - Check out my personal website (in progress): https://belladu0201.github.io/
 
 
