@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Beibei Du~
 <div id="badges">
-  <a href="https://www.linkedin.com/in/beibei-du/">
+  <a href="www.linkedin.com/in/xiaobeila-d">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -16,7 +16,7 @@
 ## About Me:
 - Now I have graduated from Duke MIDS and worked full-time for one and a half years as a Junior BI Engineer. I am figuring out my life now.
 - 🔭 I used to work on preparing for full-time positions(DS/DA/BA/DI/MLE) and coursework in my master's program (MIDS @ Duke).
-- 🌱 I’m currently learning `Scripting with Python and SQL for Data Engineering` on Coursera and self-learning SQL on Bilibili.
+- 🌱 I’m currently learning how to be happy in my life and adapt in the new adult world.
 - 👯 I’m looking to collaborate on data science projects. I would like to see more interesting ideas.
 - 🤔 I’m looking for help with some theories in data science related to mathematics/computer science/machine learning.
 - 💬 Ask me about: Anything related to UCSD; Statistics and Cognitive Science related topics; job searching
@@ -25,7 +25,7 @@
 - 📙 Booklist: 被讨厌的勇气; Exhalation: Stories; The Economic Naturalist; 秋园
 - 🎶 Recent Music list: https://www.youtube.com/watch?v=7-mTR7JSrFI
 - 🎬 Recommended drama list: liar Game (Seasons I & II)
-- ⚡ Fun fact: I have a Ragdoll named Mochi. He is a naughty boy who knocks his water bowl down every day 😾.
+- ⚡ Fun fact: I have a Ragdoll named Mochi. He is a naughty boy who knocks his water bowl down every day 😾. After 2024, now I have two more new cats: Nomi and Puffy.
 - Check out my personal website (in progress): https://belladu0201.github.io/
 
 
